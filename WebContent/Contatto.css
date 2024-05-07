@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+.responsive {
+  width: 100%;
+  height: auto;
+}
+header {
+text-align:center;
+color:gold;
+}
+h4{
+text-align:center;
+color: black;
+font-style: italic;
+font-weight: bold;
+}
+p{
+text-align:center;
+color: maroon;
+font-size:24px;
+}
